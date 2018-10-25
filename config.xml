@@ -32,7 +32,7 @@
 	<plugin name="cordova-plugin-vibration" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
-	<plugin name="cordova-plugin-facebook4 spec='https://github.com/jeduan/cordova-plugin-facebook4/blob/master/plugin.xml'--variable APP_ID='1958526900929314' --variable APP_NAME='ZoarsiTest'"/>
+	
 
 	<engine name="ios" />
 	<engine name="android" />
